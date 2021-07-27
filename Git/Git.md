@@ -1,25 +1,15 @@
-# 업무일지
+# Git - commit message convention
 
-### ✔ Summary
+> 21.07.26. | SSAFY5_6반_7조
 
-- [x] 09:00~18:00 PJT
-- [x] 21:00~24:30 APS - DP
-
-
-
-## ✨ 오늘 배운 내용
-
-- [Git Commit Convention](./Git/Git.md)
-- FE : UI 만들기 & Jetplin 사용법
-- [APS-DP](./APS/dp.md)
-
-
-
-
-## 👀 수행한 업무 및 작성한 코드
-
-- Git commit convention
-- Git Branch
+```git
+git commit -m "커밋 제목
+(한 줄 띄우고)
+커밋 내용
+(한 줄 띄우고)
+커밋 꼬릿말
+"
+```
 
 ```
 <type>(<scope>): [#]<subject>          -- 헤더
@@ -61,15 +51,6 @@ Resolves: #123
 Ref: #456
 Related to: #48
 "
+
 ```
-
-
-
-## 🐱‍💻 아쉬운 점 & 느낀 점
-
-- APS 목표를 두고, 하루 하루를 열심히 살아봅시다!!
-- 저녁 식사를 일찍 먹고, 카페에 가서 문제를 풀고/정리해봅시다.
-- At least 4시간은 자신의 시간으로 정해서 진행합니다.
-
- 
 
